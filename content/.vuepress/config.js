@@ -1,4 +1,4 @@
 module.exports = {
-    base:'/vue3-fenxi/',
+    base:'/vue-fenxi/',
     title:'Vue3源码学习'
 }
