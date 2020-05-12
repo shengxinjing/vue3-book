@@ -1,0 +1,24 @@
+{
+  "name": "vue3-fenxi",
+  "version": "1.0.0",
+  "description": "vue3源码分析3.0.0-beta.12",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev content",
+    "build": "vuepress build content"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shengxinjing/vue3-fenxi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shengxinjing/vue3-fenxi/issues"
+  },
+  "homepage": "https://github.com/shengxinjing/vue3-fenxi#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  }
+}
