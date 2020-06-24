@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Vue3源码
+heroText: Vue3框架技术内幕
 tagline: 副标题
 actionText: 快速上手 →
 actionLink: /
