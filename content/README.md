@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © shengxinjing
 
 
 # Vue3源码分析
+语雀体验更好，请移步 https://www.yuque.com/woniuppp/vue3
 
 ## 大概内容
 完整的复现vue3全家桶
